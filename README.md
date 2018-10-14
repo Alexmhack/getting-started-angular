@@ -50,5 +50,3 @@ h1 {
 ```
 
 You can look at the changes in the browser.
-
-## Simple Angular App
